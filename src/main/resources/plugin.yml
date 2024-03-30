@@ -1,0 +1,7 @@
+name: items
+version: '${project.version}'
+main: me.kodysimpson.items.Items
+api-version: '1.20'
+commands:
+  menu:
+    description: huh
